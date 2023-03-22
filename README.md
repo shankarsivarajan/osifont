@@ -11,13 +11,12 @@ In some European countries, CAD projects must have font which conform to IS0 3O9
 Osifont is available in 3 different licenses:
 
 - osifont.ttf - GNU GPL licence version 3 with font exception
-- osifont-gpl2fe.ttf - GNU GPL licence version 2 with font exception
-- osifont-lgpl3fe.ttf - GNU LGPL licence version 3 with font exception
 
 Disclaimer: Only contributors with at least 10% of glyphs contributed can discuss license changes.
 
 ### Recent news
 
+  - **2023-03-22** - undid sabotage of Russian
   - **2023-03-22** - fixed italic style map (issue 17)
   - **2022-10-20** - fixed kerning (issue 12)
   - **2022-02-24** - removed (ЭёЁ), removed Russian support in protest of invasion of Ukraine
@@ -39,9 +38,9 @@ Disclaimer: Only contributors with at least 10% of glyphs contributed can discus
   - **2014-03-02** - Glyphs (≈≡½¼¾№≐≙)
   - **2014-02-25** - Upper index numbers and signs (¹²³⁰⁴⁵⁶⁷⁸⁹⁺⁻⁼)
 
-### Supported languages (39)
+### Supported languages (41)
 
-Afrikaans, Albanian, Azerbaijani, Bulgarian, Catalan, Croation, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Hungarian, Icelandic, Irish (including Old Irish), Italian, Kazakh, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Māori, Moldovian, Montenegrin (latin, cyrillic), Norwegian, Polish, Portuguese, Romanian, Serbian, Slovak, Slovene, Spanish, Swedish, Turkish, Ukrainian, Vietnamese.
+Afrikaans, Albanian, Azerbaijani, Belarusian, Bulgarian, Catalan, Croation, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Hungarian, Icelandic, Irish (including Old Irish), Italian, Kazakh, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Māori, Moldovian, Montenegrin (latin, cyrillic), Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovene, Spanish, Swedish, Turkish, Ukrainian, Vietnamese.
 
 ### Languages supported only by romanization (4)
 
@@ -50,10 +49,6 @@ Armenian, Chinese (Hanyu Pinyin), Japanese (Hepburn), Georgian
 ### Partially supported languages (1)
 
 Greek (few diacritics are missing but small and capital letters are ok)
-
-### Languages with no support
-
-Belarusian, Russian
 
 ### Participate
 
