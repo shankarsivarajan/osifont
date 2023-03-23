@@ -16,7 +16,7 @@ Disclaimer: Only contributors with at least 10% of glyphs contributed can discus
 
 ### Recent news
 
-  - **2023-03-22** - undid sabotage of Russian
+  - **2023-03-22** - undid sabotage of Russian, Belarusian, and Mongolian.
   - **2023-03-22** - fixed italic style map (issue 17)
   - **2022-10-20** - fixed kerning (issue 12)
   - **2022-02-24** - removed (ЭёЁ), removed Russian support in protest of invasion of Ukraine
@@ -38,9 +38,9 @@ Disclaimer: Only contributors with at least 10% of glyphs contributed can discus
   - **2014-03-02** - Glyphs (≈≡½¼¾№≐≙)
   - **2014-02-25** - Upper index numbers and signs (¹²³⁰⁴⁵⁶⁷⁸⁹⁺⁻⁼)
 
-### Supported languages (41)
+### Supported languages (42)
 
-Afrikaans, Albanian, Azerbaijani, Belarusian, Bulgarian, Catalan, Croation, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Hungarian, Icelandic, Irish (including Old Irish), Italian, Kazakh, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Māori, Moldovian, Montenegrin (latin, cyrillic), Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovene, Spanish, Swedish, Turkish, Ukrainian, Vietnamese.
+Afrikaans, Albanian, Azerbaijani, Belarusian, Bulgarian, Catalan, Croation, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Hungarian, Icelandic, Irish (including Old Irish), Italian, Kazakh, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Māori, Moldovian, Mongolian (Cyrillic), Montenegrin (Latin, Cyrillic), Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovene, Spanish, Swedish, Turkish, Ukrainian, Vietnamese.
 
 ### Languages supported only by romanization (4)
 
